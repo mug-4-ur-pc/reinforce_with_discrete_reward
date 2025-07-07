@@ -1,0 +1,8 @@
+flash-attn
+datasets
+numpy
+torch
+tqdm
+transformers
+trl
+wandb

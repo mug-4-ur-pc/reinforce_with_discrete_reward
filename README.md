@@ -15,3 +15,5 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+Веса моделей можно найти [тут](https://drive.google.com/drive/folders/1cVnjz79xBCApmko_vxVHn37T5om5qUyR?usp=drive_link).
